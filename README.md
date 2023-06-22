@@ -1,2 +1,4 @@
 # Pengolahan-Citra_ITPLN
-PRAKTIKUM PENGOLAHAN CITRA - A
+------------------------
+| Nama | Zidan Novrizal
+| NIM | 202131061
