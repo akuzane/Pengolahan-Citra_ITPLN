@@ -1,0 +1,2 @@
+# Pengolahan-Citra_ITPLN
+PRAKTIKUM PENGOLAHAN CITRA - A
