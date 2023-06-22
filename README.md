@@ -1,4 +1,4 @@
 # Pengolahan-Citra_ITPLN
 ------------------------
-| Nama | Zidan Novrizal
-| NIM | 202131061
+ Nama : Zidan Novrizal
+ NIM  : 202131061
