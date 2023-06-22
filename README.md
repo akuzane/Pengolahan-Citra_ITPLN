@@ -1,4 +1,7 @@
-# Pengolahan-Citra_ITPLN
-------------------------
- Nama : Zidan Novrizal
- NIM  : 202131061
+# Pengolahan Citra - A
+
+```python
+Nama = 'Zidan Novrizal'
+NIM  = 202131061
+```
+
